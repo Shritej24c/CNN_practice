@@ -1,2 +1,3 @@
-# CNN_practice
-To practice the implementation of Convolutional Neural Network 
+# Image Classifier using CNN
+DL model have been implemented using Keras.
+
