@@ -1,3 +1,3 @@
 # Image Classifier using CNN
-DL model have been implemented using Keras.
+Implementation of a DL model using Keras.
 
